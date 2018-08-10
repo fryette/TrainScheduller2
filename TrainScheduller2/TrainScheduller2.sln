@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainScheduller2", "TrainScheduller2\TrainScheduller2.csproj", "{6FAAD4CD-11D9-472C-830C-A9CC85055A3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainScheduller2.Parser", "TrainScheduller2.Parser\TrainScheduller2.Parser.csproj", "{2BB207B9-18B9-44BE-A1D4-7CBB7957EFA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FAAD4CD-11D9-472C-830C-A9CC85055A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAAD4CD-11D9-472C-830C-A9CC85055A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAAD4CD-11D9-472C-830C-A9CC85055A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAAD4CD-11D9-472C-830C-A9CC85055A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB207B9-18B9-44BE-A1D4-7CBB7957EFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB207B9-18B9-44BE-A1D4-7CBB7957EFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB207B9-18B9-44BE-A1D4-7CBB7957EFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB207B9-18B9-44BE-A1D4-7CBB7957EFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

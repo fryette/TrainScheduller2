@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="AngleSharp" Version="0.9.10" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TrainScheduller2.Parser\TrainScheduller2.Parser.csproj" />
+  </ItemGroup>
+</Project>
